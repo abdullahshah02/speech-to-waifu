@@ -20,8 +20,8 @@ Speak your thoughts and have an anime waifu will repeat your words back to you!
 ## Setting up 
 
 Once you have all the pre-requisites, run the following commands to start the project:
-- `python3.9 -m pip install -r requirements.txt`
-- `python3.9 main.py`
+- `pip install -r requirements.txt`
+- `python main.py`
 
 ## Useful Links
 - If you have issues installing PyAudio on Ubuntu, refer to [this post](https://stackoverflow.com/questions/73268630/error-could-not-build-wheels-for-pyaudio-which-is-required-to-install-pyprojec)
