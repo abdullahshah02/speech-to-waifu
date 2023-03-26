@@ -21,7 +21,7 @@ Speak your thoughts and have an anime waifu will repeat your words back to you!
     - [Windows](https://ffmpeg.org/download.html)
     - [Ubuntu](https://linuxize.com/post/how-to-install-ffmpeg-on-ubuntu-20-04/)
 
-## Setting up 
+## Setting Up 
 
 Once you have all the pre-requisites, run the following commands to start the project:
 - `pip install -r requirements.txt`
