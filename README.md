@@ -28,9 +28,9 @@ Once you have all the pre-requisites, run the following commands to start the pr
 - `python main.py`
 
 ## Useful Links
-- If you have issues installing PyAudio on Ubuntu, refer to [this post](https://stackoverflow.com/questions/73268630/error-could-not-build-wheels-for-pyaudio-which-is-required-to-install-pyprojec)
-- Refer to [this post](https://stackoverflow.com/questions/73845566/openai-whisper-filenotfounderror-winerror-2-the-system-cannot-find-the-file) if you get the following error when trying to transcribe text using whisper:
-    - `FileNotFoundError: [WinError 2] The system cannot find the file specified`
 - [Voice Vox Documentation](https://voicevox.github.io/voicevox_engine/api/)
 - [DeepL API Documentation](https://www.deepl.com/docs-api/introduction/)
 - [Whisper Documentation](https://github.com/openai/whisper)
+- If you have issues installing PyAudio on Ubuntu, refer to [this post](https://stackoverflow.com/questions/73268630/error-could-not-build-wheels-for-pyaudio-which-is-required-to-install-pyprojec)
+- Refer to [this post](https://stackoverflow.com/questions/73845566/openai-whisper-filenotfounderror-winerror-2-the-system-cannot-find-the-file) if you get the following error when trying to transcribe text using whisper:
+`FileNotFoundError: [WinError 2] The system cannot find the file specified`
