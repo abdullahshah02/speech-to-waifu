@@ -17,6 +17,10 @@ Speak your thoughts and have an anime waifu will repeat your words back to you!
 
 4. [DeepL API Key](https://www.deepl.com/pro-api?cta=header-pro-api/). Once you have this, add it to the `.env` file as `DEEPL_API_KEY`.
 
+5. Install `ffmpeg` and add it to the PATH.
+    - [Windows](https://ffmpeg.org/download.html)
+    - [Ubuntu](https://linuxize.com/post/how-to-install-ffmpeg-on-ubuntu-20-04/)
+
 ## Setting up 
 
 Once you have all the pre-requisites, run the following commands to start the project:
