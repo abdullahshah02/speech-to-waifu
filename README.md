@@ -15,7 +15,7 @@ Speak your thoughts and have an anime waifu will repeat your words back to you!
 
 3. [Voicevox Image](https://hub.docker.com/r/voicevox/voicevox_engine)
 
-4. [DeepL API Key](https://www.deepl.com/pro-api?cta=header-pro-api/). Once you have this, add it to the `.env` file as `DEEPL_API_KEY`.
+4. [DeepL API Key](https://www.deepl.com/pro-api?cta=header-pro-api/).
 
 5. Install `ffmpeg` and add it to the PATH.
     - [Windows](https://ffmpeg.org/download.html)
@@ -24,8 +24,11 @@ Speak your thoughts and have an anime waifu will repeat your words back to you!
 ## Setting Up 
 
 Once you have all the pre-requisites, run the following commands to start the project:
-- `pip install -r requirements.txt`
-- `python main.py`
+- Create a copy of the `.env.example` file and rename it to `.env`.
+- Replace the `DEEPL_API_KEY` with your api key.
+- Run the following commands in the terminal:
+    - `pip install -r requirements.txt`
+    - `python main.py`
 
 ## Useful Links
 - [Voice Vox Documentation](https://voicevox.github.io/voicevox_engine/api/)
