@@ -25,7 +25,7 @@ Speak your thoughts and have an anime waifu will repeat your words back to you!
 
 Once you have all the pre-requisites, follow these steps:
 - Create a copy of the `.env.example` file and rename it to `.env`.
-- Replace the `DEEPL_API_KEY` with your api key.
+- Replace the `DEEPL_API_KEY` in the `.env` file with your api key.
 - Run the following commands in the terminal:
     - `pip install -r requirements.txt`
     - `python main.py`
